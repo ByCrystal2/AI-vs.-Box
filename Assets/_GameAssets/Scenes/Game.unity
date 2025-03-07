@@ -160,8 +160,8 @@ MonoBehaviour:
   enemyContent: {fileID: 6947983108196619055}
   enemyPrefab: {fileID: 7881656274181505452, guid: 31211d15cfb3f8c478f68add26d44288,
     type: 3}
-  enemiesSpawnCount: 0
-  aiSpawnCount: 1000
+  enemiesSpawnCount: 1
+  aiSpawnCount: 1
   drawGizmos: 0
 --- !u!4 &655362695
 Transform:
